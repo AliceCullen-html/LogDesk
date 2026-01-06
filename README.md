@@ -1,6 +1,6 @@
-# 🚚 Performance Hub — Freight Intelligence Platform
+# 🚚 LogDesk — Freight Intelligence Platform
 
-**Performance Hub** é uma plataforma de **inteligência operacional para transportadoras**, focada em **rentabilidade, controle de custos e performance de entregas**.  
+**LogDesk** é uma plataforma de **inteligência operacional para transportadoras**, focada em **rentabilidade, controle de custos e performance de entregas**.  
 O sistema centraliza dados operacionais de fretes e os transforma em **insights claros e acionáveis**, eliminando a dependência de planilhas e análises manuais.
 
 > **Mais do que um dashboard, o Performance Hub é um centro de decisão operacional.**
