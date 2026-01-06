@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚚 Performance Hub — Freight Intelligence Platform
 
-# Run and deploy your AI Studio app
+**Performance Hub** é uma plataforma de **inteligência operacional para transportadoras**, focada em **rentabilidade, controle de custos e performance de entregas**.  
+O sistema centraliza dados operacionais de fretes e os transforma em **insights claros e acionáveis**, eliminando a dependência de planilhas e análises manuais.
 
-This contains everything you need to run your app locally.
+> **Mais do que um dashboard, o Performance Hub é um centro de decisão operacional.**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1u3ZhbBAYi9zH8bMr21Mawf112EXkhRNy
+---
 
-## Run Locally
+## 📌 Visão Geral
 
-**Prerequisites:**  Node.js
+Transportadoras lidam diariamente com margens apertadas, custos variáveis e pressão por prazos. O Performance Hub foi criado para ajudar gestores a responder perguntas como:
 
+- Quais rotas são realmente lucrativas?
+- Onde estou perdendo margem?
+- Qual veículo ou motorista está gerando mais custo?
+- Meu SLA está sendo cumprido?
+- O lucro do mês está acima ou abaixo do esperado?
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Tudo isso em uma interface simples, visual e orientada à ação.
+
+---
+
+## ✨ Funcionalidades
+
+### 📊 Dashboard Executivo
+- Margem média
+- SLA de entregas
+- Custo por KM
+- Receita média por viagem
+- KM rodados no período
+- Comparação com período anterior
+- Indicadores de tendência (↑ ↓)
+
+---
+
+### 📈 Análise de Rentabilidade
+- Receita vs. custo por rota
+- Rentabilidade agrupada por viagem
+- Top rotas mais lucrativas
+- Identificação de viagens com margem crítica
+
+---
+
+### 🚚 Visão Operac
