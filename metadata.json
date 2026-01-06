@@ -1,0 +1,8 @@
+{
+  "name": "LogiFlow - Gestor de Fretes",
+  "description": "Uma plataforma abrangente de gestão de fretes e logística com acompanhamento de KPIs em tempo real, registro de viagens, análise de custos e insights de desempenho baseados em IA.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
