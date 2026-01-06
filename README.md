@@ -91,26 +91,7 @@ Tudo isso em uma interface simples, visual e orientada à ação.
 
 ---
 
-## 🧱 Arquitetura (Visão Geral)
-
-```text
-Frontend (Dashboard)
-│
-├── KPIs & Gráficos
-├── Alertas
-├── Rankings
-│
-Backend (API)
-│
-├── Fretes
-├── Custos
-├── Veículos
-├── Motoristas
-│
-Banco de Dados
-
-
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Frontend: React / Next.js
 
